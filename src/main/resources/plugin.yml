@@ -1,0 +1,4 @@
+name: MongoWillo
+version: 1.0.0
+main: org.willomane.mongowillo.MongoWillo
+api-version: 1.17
